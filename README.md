@@ -47,9 +47,14 @@ This project is archived and not intended for active use due to outdated depende
 
 ## Screenshots
 
-![Swipe Interface](assets/swipe.png)
-![Chat Interface](assets/chatInterface.png)
-![Chat Messages](assets/chat.png)
+#### Swipe Interface 
+![Swipe Interface](tinder/src/assets/images/swipe.png)
+
+#### Chat Interface 
+![Chat Interface](tinder/src/assets/images/chatInterface.png)
+
+#### Message Interface 
+![Chat Messages](tinder/src/assets/images/chat.png)
 
 *Note*: Screenshots reflect the implemented UI, showcasing the project's functionality.
 
