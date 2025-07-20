@@ -1,4 +1,4 @@
-# Tinder Clone (Archived)
+# Tinder Clone
 
 **Status**: This repository is archived and no longer maintained. It is preserved as a portfolio project to showcase early full-stack development skills. For my latest work, please visit my [GitHub profile](https://github.com/Usama-Imtiaz-07).
 
