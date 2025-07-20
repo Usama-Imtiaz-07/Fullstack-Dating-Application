@@ -1,6 +1,6 @@
 # Tinder Clone (Archived)
 
-**Status**: This repository is archived and no longer maintained. It is preserved as a portfolio project to showcase early full-stack development skills. For my latest work, please visit my [GitHub profile](https://github.com/your-username).
+**Status**: This repository is archived and no longer maintained. It is preserved as a portfolio project to showcase early full-stack development skills. For my latest work, please visit my [GitHub profile](https://github.com/Usama-Imtiaz-07).
 
 ## Overview
 This project is a full-stack dating application inspired by Tinder, featuring user authentication, swipe-based matching, and real-time messaging. Built as a learning exercise, it demonstrates proficiency in developing a modern web application using the MERN stack (MongoDB, Express.js, React, Node.js) and Firebase.
@@ -46,14 +46,15 @@ This project is archived and not intended for active use due to outdated depende
 **Note**: Due to the project's age, you may encounter compatibility issues with modern dependencies.
 
 ## Screenshots
-![Login Screen](assets/images/login.png)
-![Swipe Interface](assets/images/swipe.png)
-![Chat Interface](assets/images/chat.png)
+
+![Swipe Interface](assets/swipe.png)
+![Chat Interface](assets/chatInterface.png)
+![Chat Messages](assets/chat.png)
 
 *Note*: Screenshots reflect the implemented UI, showcasing the project's functionality.
 
 ## Status
-This repository is archived and serves as a portfolio piece to highlight early experience with full-stack development. I am currently working on a new, modernized project with updated technologies, which will be shared on my [GitHub profile](https://github.com/your-username).
+This repository is archived and serves as a portfolio piece to highlight early experience with full-stack development.
 
 ## Contact
-For inquiries or to view my latest projects, connect with me via [GitHub](https://github.com/your-username) or [your-email@example.com](mailto:your-email@example.com).
+For inquiries or to view my latest projects, connect with me via [GitHub](https://github.com/Usama-Imtiaz-07) or [Gmail](mailto:osamaimtiaz677@gmail.com).
